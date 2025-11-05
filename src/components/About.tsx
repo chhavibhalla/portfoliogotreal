@@ -17,7 +17,7 @@ const About = () => {
     {
       icon: Rocket,
       title: "Innovation Driver",
-      description: "Member of ARES Robotics Society, contributing to cutting-edge robotics projects.",
+      
     },
     {
       icon: Sparkles,
