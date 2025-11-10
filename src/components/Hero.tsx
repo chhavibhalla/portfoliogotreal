@@ -7,7 +7,7 @@ import { useEffect, useState } from "react";
 
 const Hero = () => {
   const [text, setText] = useState("");
-  const fullText = "B.Tech AI & ML | Open Source Contributor | Full Stack Developer";
+  const fullText = "B.Tech AI & ML | Open Source Contributor | AI  Full Stack Developer";
   
   useEffect(() => {
     let index = 0;
@@ -142,7 +142,7 @@ const Hero = () => {
             className="flex gap-6 justify-center"
           >
             <a
-              href="https://github.com"
+              href="https://github.com/chhavibhalla"
               target="_blank"
               rel="noopener noreferrer"
               className="text-foreground hover:text-primary transition-colors"
@@ -150,7 +150,7 @@ const Hero = () => {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/chhaviibhalla/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-foreground hover:text-primary transition-colors"
